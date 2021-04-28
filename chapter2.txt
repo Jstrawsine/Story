@@ -1,1 +1,3 @@
-This is some garbage to understand GIT. This is the second chapter or second version. 
+This is some garbage to understand GIT. This is the second chapter or second version.
+
+This is a new version we are testing  
